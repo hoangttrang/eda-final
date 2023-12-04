@@ -1,0 +1,11 @@
+*.cpg
+*.dbf
+*.prj
+*.sbn
+*.shp
+*.shx
+*.xml
+*.zip
+*.csv
+/.history
+
