@@ -1,4 +1,4 @@
-# eda-final
+# EDA-final -> Car Accident Analysis on United States + South Carolina in 2022
 
 ## Group Name and Members -
 ### WreckDetect
