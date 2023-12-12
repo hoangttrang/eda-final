@@ -1,4 +1,8 @@
-# eda-final
+# EDA-final -> Car Accident Analysis on United States + South Carolina in 2022
+
+## Group Name and Members -
+### WreckDetect
+Trang Hoang, Susheel Srikanth, Albert Hu, Murad Aladdinzade 
 
 ## Introduction: 
 This repository contains notebooks, graphs, data, and a general audience PDF reports related to EDA Final Project. Our project topic is about "Car Accidents in 2022". Most of the data is being stored in the `/data/` folder. Generated graphs are stored in the `/graph/` folder. 
